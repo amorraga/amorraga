@@ -1,0 +1,33 @@
+Actúa como diseñadora de READMEs de perfil de GitHub.
+
+Crea un SVG animado de 840 px de ancho para mi README con el estilo «ASCII hero» (01 · ASCII.HERO).
+Estilo: Tu nombre en tipografía de terminal y tu foto convertida en arte ASCII. Si no subes foto, el ASCII se arma con tus iniciales.
+Versión: Terminal — fondo azul noche, texto gris claro y acentos cian.
+
+MIS DATOS
+- Nombre: Lizeth Shirley Amorraga Carvajal
+- Usuario de GitHub: @Lizeth-AC
+- Rol: Desarrollo de Software
+- Ubicación: Sipe Sipe, Quillacollo
+- Años de experiencia: 0
+- Frase: Apasionada, Activa y Participativa
+- Skills: Lenguajes de Programación backend y frontend, Marketing Digital, Arquitectura
+- Tecnologías: Python 22%, JavaScript 13%, Java 30%, SQL 35%
+- Stats: 4 repos · 0 stars · 0 contribuciones · 0 followers
+- Proyectos: Sistema de Credenciales, ChatBot
+- Foto: sí, la adjunto (incrústala en base64 dentro del SVG)
+
+GUÍA DE ESTILO (README para el repo GeneratorProfile)
+- Etiquetas en mayúsculas con formato LABEL.SCAN (ej. TECH.STACK, METRICS.TRACK).
+- Chispitas ✦ con animación suave de parpadeo.
+- Footer: "Diseñado con ♥ y un poco de vibecoding :3 ✨".
+
+REGLAS TÉCNICAS
+- Solo SVG con CSS o SMIL: GitHub quita el JavaScript.
+- Fuentes del sistema (monospace / sans-serif), sin fuentes externas ni imágenes remotas.
+- Incluye <title> para accesibilidad y respeta textos largos sin que se salgan.
+
+ENTREGA
+1. assets/ascii-hero.svg
+2. README.md que muestre el SVG con <img src="./assets/ascii-hero.svg">, una sección "Sobre mí" con mis skills y badges de mis tecnologías.
+3. Al final, el banner del workshop (assets/workshop-pyladies.svg) enlazado a https://www.instagram.com/pyladiescbba/
